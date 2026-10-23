@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\91853\\OneDrive\\Documents\\Personal Project\\.net\\Recruitment Management System API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C63FFE4-CB18-93A0-165E-20FEAB047B11}|Recruitment Management System API\\Recruitment Management System API.csproj|c:\\users\\91853\\onedrive\\documents\\personal project\\.net\\recruitment management system api\\recruitment management system api\\controllers\\recruiterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C63FFE4-CB18-93A0-165E-20FEAB047B11}|Recruitment Management System API\\Recruitment Management System API.csproj|solutionrelative:recruitment management system api\\controllers\\recruiterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C63FFE4-CB18-93A0-165E-20FEAB047B11}|Recruitment Management System API\\Recruitment Management System API.csproj|c:\\users\\91853\\onedrive\\documents\\personal project\\.net\\recruitment management system api\\recruitment management system api\\dtos\\recruiterresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C63FFE4-CB18-93A0-165E-20FEAB047B11}|Recruitment Management System API\\Recruitment Management System API.csproj|solutionrelative:recruitment management system api\\dtos\\recruiterresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C63FFE4-CB18-93A0-165E-20FEAB047B11}|Recruitment Management System API\\Recruitment Management System API.csproj|c:\\users\\91853\\onedrive\\documents\\personal project\\.net\\recruitment management system api\\recruitment management system api\\controllers\\jobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C63FFE4-CB18-93A0-165E-20FEAB047B11}|Recruitment Management System API\\Recruitment Management System API.csproj|solutionrelative:recruitment management system api\\controllers\\jobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C63FFE4-CB18-93A0-165E-20FEAB047B11}|Recruitment Management System API\\Recruitment Management System API.csproj|c:\\users\\91853\\onedrive\\documents\\personal project\\.net\\recruitment management system api\\recruitment management system api\\dtos\\recruitercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C63FFE4-CB18-93A0-165E-20FEAB047B11}|Recruitment Management System API\\Recruitment Management System API.csproj|solutionrelative:recruitment management system api\\dtos\\recruitercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RecruitersController.cs",
+              "DocumentMoniker": "C:\\Users\\91853\\OneDrive\\Documents\\Personal Project\\.net\\Recruitment Management System API\\Recruitment Management System API\\Controllers\\RecruitersController.cs",
+              "RelativeDocumentMoniker": "Recruitment Management System API\\Controllers\\RecruitersController.cs",
+              "ToolTip": "C:\\Users\\91853\\OneDrive\\Documents\\Personal Project\\.net\\Recruitment Management System API\\Recruitment Management System API\\Controllers\\RecruitersController.cs",
+              "RelativeToolTip": "Recruitment Management System API\\Controllers\\RecruitersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T15:20:32.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RecruiterCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\91853\\OneDrive\\Documents\\Personal Project\\.net\\Recruitment Management System API\\Recruitment Management System API\\DTOs\\RecruiterCreateDto.cs",
+              "RelativeDocumentMoniker": "Recruitment Management System API\\DTOs\\RecruiterCreateDto.cs",
+              "ToolTip": "C:\\Users\\91853\\OneDrive\\Documents\\Personal Project\\.net\\Recruitment Management System API\\Recruitment Management System API\\DTOs\\RecruiterCreateDto.cs",
+              "RelativeToolTip": "Recruitment Management System API\\DTOs\\RecruiterCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T15:04:02.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RecruiterResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\91853\\OneDrive\\Documents\\Personal Project\\.net\\Recruitment Management System API\\Recruitment Management System API\\DTOs\\RecruiterResponseDto.cs",
+              "RelativeDocumentMoniker": "Recruitment Management System API\\DTOs\\RecruiterResponseDto.cs",
+              "ToolTip": "C:\\Users\\91853\\OneDrive\\Documents\\Personal Project\\.net\\Recruitment Management System API\\Recruitment Management System API\\DTOs\\RecruiterResponseDto.cs",
+              "RelativeToolTip": "Recruitment Management System API\\DTOs\\RecruiterResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T15:14:29.513Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "b585aae3-c523-481c-ba19-692bcb345f5d",
+        "Display": 0,
+        "X": 31,
+        "Y": 168,
+        "Width": 1166,
+        "Height": 768,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JobsController.cs",
+              "DocumentMoniker": "C:\\Users\\91853\\OneDrive\\Documents\\Personal Project\\.net\\Recruitment Management System API\\Recruitment Management System API\\Controllers\\JobsController.cs",
+              "RelativeDocumentMoniker": "Recruitment Management System API\\Controllers\\JobsController.cs",
+              "ToolTip": "C:\\Users\\91853\\OneDrive\\Documents\\Personal Project\\.net\\Recruitment Management System API\\Recruitment Management System API\\Controllers\\JobsController.cs",
+              "RelativeToolTip": "Recruitment Management System API\\Controllers\\JobsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T15:21:14.939Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
